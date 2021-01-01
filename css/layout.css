@@ -333,14 +333,16 @@ ul#nav li.current a { color: #F06000; }
 }
 .intro-info .lead {
 	text-align: left;
-	padding-left: 13rem;
+   padding-left: 13rem;
+   color: #313131;
 }
 
 .about-content {
 	position: relative;
 	text-align: left;
 	max-width: 850px;
-	margin-bottom: 3.6rem;
+   margin-bottom: 3.6rem;
+   color: #5c5c5c;
 }
 .about-content h3 {
 	font-family: "opensans-bold", sans-serif;
@@ -367,7 +369,7 @@ ul#nav li.current a { color: #F06000; }
 .about-content .info-list li span {
 	display: block;
 	font-family: "opensans-regular", sans-serif;
-	color: #888888;
+	color: #646464;
 	font-size: 1.5rem;
 	line-height: 1;
 }
