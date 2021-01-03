@@ -54,6 +54,13 @@ body { background: #0f0f0f; }
    margin-bottom: 0.3rem;
    letter-spacing: .4rem;
  }
+ .section-intro h2 {
+   font-family: 'opensans-bold', sans-serif;
+   font-size: 20px;
+   color: #313131;
+   line-height: 1.25;
+   margin-bottom: 1.2rem;
+ }
  
 
 /* ------------------------------------------------------------------ */
@@ -325,12 +332,13 @@ ul#nav li.current a { color: #F06000; }
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 9rem;
-	width: 9rem;
-	border-radius: 50%;
-	margin: .9rem 0 0 0;
-	float: left;
-}
+   height: 15rem;
+   width: 15rem;
+   border:1px solid #F06000;
+   border-radius: 50%;
+   margin: -2.2rem 3rem 0 2rem;
+   float: left;
+ }
 .intro-info .lead {
 	text-align: left;
    padding-left: 13rem;
